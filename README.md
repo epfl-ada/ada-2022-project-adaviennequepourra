@@ -9,10 +9,17 @@
 ##### Webstite repository: [https://github.com/Xkrilandar/WarAndCinema/](https://github.com/Xkrilandar/WarAndCinema/)
 
 ## Contributions of group members
-##### Bastien:
-##### Etienne:
+##### Bastien: 
+##### Etienne: Coding of the Latent Dirichlet Allocation methods (LDA) used in topic modelling. Coding the sentiment analysis on the movies per countries. Help in the supervised topic modelling analysis and graph plotting.
 ##### Emmanuelle:
 ##### Xavier:
+
+## Used methods : 
+#### Latent Dirichlet allocation to isolate and find topics amongst the movie summaries.
+#### Community detection to ease the work of LDA in order to obtain better results.
+#### Bags of words ?
+#### Sentiment Analysis in order to find patterns in the movies made pre-war, war and post-war in the different countries.
+#### Supervised topic modelling : find how the specified topics evolved during time amongst the different countries.
 
 # Project proposal M2
 ## Abstract 
