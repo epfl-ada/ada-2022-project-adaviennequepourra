@@ -9,10 +9,10 @@
 ##### Webstite repository: [https://github.com/Xkrilandar/WarAndCinema/](https://github.com/Xkrilandar/WarAndCinema/)
 
 ## Contributions of group members
-##### Bastien: Community for topic modelling, topic analysis etc...DEVELOPPEZ + More standard data analysis and exploration.
-##### Etienne: Coding of the Latent Dirichlet Allocation methods (LDA) used in topic modelling. Coding the sentiment analysis on the movies per countries. Help in the supervised topic modelling analysis and graph plotting. More standard data analysis and exploration.
-##### Emmanuelle: Wikipedia dataset scraping and integration, Vietnam study case, supervised topic modelling, most common words. More standard data analysis and exploration.
-##### Xavier: Website + Graph sentiment analysis + DEVELLOPPEZZZZZZZ + More standard data analysis and exploration.
+##### Bastien: Movie Networks and Community detection for topic modelling and topic analysis. Wordcloud visualizations. More standard data analysis and exploration. Analysis of the results.
+##### Etienne: The Latent Dirichlet Allocation methods (LDA) used in topic modelling and analysis. Sentiment analysis on the movies per countries. Help in the supervised topic modelling analysis and graph plotting. More standard data analysis and exploration. Analysis of the results.
+##### Emmanuelle: Wikipedia dataset scraping and integration. Vietnam study case. Supervised topic modelling. Most common words. More standard data analysis and exploration. Analysis of the results.
+##### Xavier: Website gestion, organisation and writing. Help on Sentiment Analysis graphs on the movies per countries. More standard data analysis and exploration. Analysis of the results.
 
 ## Used methods : 
 #### Latent Dirichlet allocation to isolate and find topics amongst the movie summaries.
