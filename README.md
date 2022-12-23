@@ -17,7 +17,7 @@
 ## Used methods : 
 #### Latent Dirichlet allocation to isolate and find topics amongst the movie summaries.
 #### Community detection to ease the work of LDA in order to obtain better results.
-#### Bags of words ?
+#### Bags of words, most common words in order to filter the movies.
 #### Sentiment Analysis in order to find patterns in the movies made pre-war, war and post-war in the different countries.
 #### Supervised topic modelling : find how the specified topics evolved during time amongst the different countries.
 
