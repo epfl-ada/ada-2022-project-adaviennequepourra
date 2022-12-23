@@ -11,7 +11,7 @@
 ## Contributions of group members
 ##### Bastien: Community for topic modelling, topic analysis etc...DEVELOPPEZ + More standard data analysis and exploration.
 ##### Etienne: Coding of the Latent Dirichlet Allocation methods (LDA) used in topic modelling. Coding the sentiment analysis on the movies per countries. Help in the supervised topic modelling analysis and graph plotting. More standard data analysis and exploration.
-##### Emmanuelle: Vietnam study case  DEVELOPPEZ, supervised topic modelling + More standard data analysis and exploration.
+##### Emmanuelle: Wikipedia dataset scraping and integration, Vietnam study case, supervised topic modelling, most common words. More standard data analysis and exploration.
 ##### Xavier: Website + Graph sentiment analysis + DEVELLOPPEZZZZZZZ + More standard data analysis and exploration.
 
 ## Used methods : 
