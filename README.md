@@ -1,7 +1,19 @@
 # War impact on Cinema
 
-Bastien Bernath, Etienne Boisson, Emmanuelle Denove, Xavier Theimer-Lienhard
+Group : Adavienne Que Pourra\\
+Group members :Bastien Bernath, Etienne Boisson, Emmanuelle Denove, Xavier Theimer-Lienhard
 
+# Data story M3
+Website : [https://xkrilandar.github.io/WarAndCinema/](https://xkrilandar.github.io/WarAndCinema/)\\
+Webstite repository : [https://github.com/Xkrilandar/WarAndCinema/](https://github.com/Xkrilandar/WarAndCinema/)
+
+## Contributions of group members
+Bastien:\\
+Etienne:\\
+Emmanuelle:\\
+Xavier:
+
+# Project proposal M2
 ## Abstract 
 
 Wars have a strong impact not only on the people that live through it, but also on society as a whole. Using datasets of meta data of films scraped from wikipedia and freebase, we’d like to explore war's impact on cinema themes, genres and general sentiment. Are more war movies made during a war or just after ? Are war movies always sad ? How do these themes change across different wars, and across the different affected countries ? What wars from the last century do we see most often in modern cinema, and does the sentiment towards these wars seem to change ? The goal is to see the long term effect of wars on arts and culture, through the lens of cinema and how they are represented across time.
