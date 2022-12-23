@@ -4,7 +4,7 @@ Group : Adavienne Que Pourra\\
 Group members :Bastien Bernath, Etienne Boisson, Emmanuelle Denove, Xavier Theimer-Lienhard
 
 # Data story M3
-Website : [https://xkrilandar.github.io/WarAndCinema/](https://xkrilandar.github.io/WarAndCinema/)\\
+Website : [https://xkrilandar.github.io/WarAndCinema/](https://xkrilandar.github.io/WarAndCinema/) \\
 Webstite repository : [https://github.com/Xkrilandar/WarAndCinema/](https://github.com/Xkrilandar/WarAndCinema/)
 
 ## Contributions of group members
