@@ -1,17 +1,18 @@
 # War impact on Cinema
 
-Group : Adavienne Que Pourra\\
+Group : Adavienne Que Pourra
+
 Group members :Bastien Bernath, Etienne Boisson, Emmanuelle Denove, Xavier Theimer-Lienhard
 
 # Data story M3
-Website : [https://xkrilandar.github.io/WarAndCinema/](https://xkrilandar.github.io/WarAndCinema/) \\
-Webstite repository : [https://github.com/Xkrilandar/WarAndCinema/](https://github.com/Xkrilandar/WarAndCinema/)
+##### Website : [https://xkrilandar.github.io/WarAndCinema/](https://xkrilandar.github.io/WarAndCinema/) 
+##### Webstite repository : [https://github.com/Xkrilandar/WarAndCinema/](https://github.com/Xkrilandar/WarAndCinema/)
 
 ## Contributions of group members
-Bastien:\\
-Etienne:\\
-Emmanuelle:\\
-Xavier:
+##### Bastien:
+##### Etienne:
+##### Emmanuelle:
+##### Xavier:
 
 # Project proposal M2
 ## Abstract 
